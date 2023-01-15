@@ -9,11 +9,15 @@
 <br/>
 
 # 기능
-### [프로그램 시연영상](https://www.youtube.com/watch?v=qlRR_pKAJOw)
+### [프로그램 설명 영상 보기](https://youtu.be/8-cDPv0-Brs)
 
 <br/>
+<details>
+<summary>hello-word 크롬 익스텐션 설치 후 우측 상단 아이콘 클릭을 통해 로그인 가능</summary>
 
-hello-word 크롬 익스텐션 설치 후 우측 상단 아이콘 클릭을 통해 로그인 가능
+![login](https://user-images.githubusercontent.com/101804186/212551178-d4ddf0e7-ab80-4c34-8aa4-d2eee929fe44.gif)
+
+</details>
 <details>
 <summary>일반 웹페이지 내에서 단어를 드래그 후 총 3가지 아이콘 등장</summary>
 
@@ -51,10 +55,11 @@ hello-word 크롬 익스텐션 설치 후 우측 상단 아이콘 클릭을 통�
 
 <br/>
 
+
+
 # 설치방법
 
-### [크롬 웹스토어에서 다운](https://chrome.google.com/webstore/detail/hello-word/pegeamjammjhpgdddkbbpfodepbflnfn/related?hl=ko&authuser=0)
-
+### [크롬 웹스토어에서 다운받아 바로 체험해보기](https://chrome.google.com/webstore/detail/hello-word/pegeamjammjhpgdddkbbpfodepbflnfn/related?hl=ko&authuser=0)
 <br/>
 
 <details>
@@ -147,6 +152,10 @@ FIREBASE_SERVICE_CLIENT_URL=
 ```
 
 </details>
+
+## 레포지토리 링크
+### [Front-end](https://github.com/CJH-hello-word/hello-word-frontend)
+### [Back-end](https://github.com/CJH-hello-word/hello-word-backend)
 
 <br/>
 

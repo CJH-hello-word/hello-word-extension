@@ -8,28 +8,47 @@
 
 <br/>
 
+# 기능
 ### [프로그램 시연영상](https://www.youtube.com/watch?v=qlRR_pKAJOw)
 
 <br/>
 
+hello-word 크롬 익스텐션 설치 후 우측 상단 아이콘 클릭을 통해 로그인 가능
 <details>
-<summary>
-프로그램 기능(열어서 보기).
-</summary>
+<summary>일반 웹페이지 내에서 단어를 드래그 후 총 3가지 아이콘 등장</summary>
 
-1. hello-word 크롬 익스텐션 설치 후 우측 상단 아이콘 클릭을 통해 로그인 가능<img width="1436" alt="스크린샷 2022-12-14 오전 8 57 07" src="https://user-images.githubusercontent.com/101804186/207471178-8ce2a5c7-1e47-4f43-805e-7a58258ea877.png">
+![threeTools](https://user-images.githubusercontent.com/101804186/212542074-0200b68f-95bc-4660-85fa-5d78229e0456.gif)
 
-2) 일반 웹페이지 내에서 단어를 드래그 후 총 3가지 아이콘 등장  
-    <img width="424" alt="스크린샷 2022-12-14 오전 8 54 36" src="https://user-images.githubusercontent.com/101804186/207470706-d4c81235-baed-4f61-9de7-b38a312f8983.png">
-
-- 돋보기 아이콘 클릭: 해당 단어에 대한 데이터 불러오기
-
-- 연필 아이콘 클릭: 해당 단어에 대한 데이터 생성 및 수정
-
-- 전구 아이콘 클릭: 페이지내에 저장된 단어 데이터가 존재한다면 해당 단어들 하이라이트 표시<img width="538" alt="스크린샷 2022-12-14 오전 9 02 38" src="https://user-images.githubusercontent.com/101804186/207471636-fc7a2410-6527-47ad-8017-265f7fa62f9e.png">
-
-3. [hello-word.site](https://www.hello-word.site/)로 접속하여 단어 별도 추가 및 수정 가능.
 </details>
+
+<details>
+<summary>연필 아이콘 클릭: 해당 단어에 대한 데이터 생성 및 수정</summary>
+
+![create](https://user-images.githubusercontent.com/101804186/212536503-ba6d3d19-9052-41fa-a0e1-5eede290a4e4.gif)
+
+</details>
+
+<details>
+<summary>돋보기 아이콘 클릭: 해당 단어에 대한 데이터 불러오기</summary>
+
+![get](https://user-images.githubusercontent.com/101804186/212541401-8865afac-ee18-450e-9dbd-31c111b05723.gif)
+
+</details>
+<details>
+<summary>전구 아이콘 클릭: 페이지내에 저장된 단어 데이터가 존재한다면 해당 단어들 하이라이트 표시</summary>
+
+![highlight](https://user-images.githubusercontent.com/101804186/212544137-82cfed88-c53a-4e44-b98f-2beb26dfb33a.gif)
+
+
+</details>
+
+<details>
+<summary>[hello-word.site](https://www.hello-word.site/)로 접속하여 단어 별도 추가 및 수정 가능</summary>
+
+![page](https://user-images.githubusercontent.com/101804186/212543683-c99390c1-be70-4331-bd19-2065cc6f7976.gif)
+
+</details>
+
 <br/>
 
 # 설치방법

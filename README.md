@@ -47,7 +47,8 @@
 </details>
 
 <details>
-<summary>[hello-word.site](https://www.hello-word.site/)로 접속하여 단어 별도 추가 및 수정 가능</summary>
+
+<summary> https://www.hello-word.site 접속하여 단어 별도 추가 및 수정 가능 </summary>
 
 ![page](https://user-images.githubusercontent.com/101804186/212543683-c99390c1-be70-4331-bd19-2065cc6f7976.gif)
 
